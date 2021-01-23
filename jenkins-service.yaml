@@ -9,4 +9,4 @@ spec:
       targetPort: 8080
       nodePort: 30000
   selector:
-    jenkins-cr: jenkins-server
+    jenkins-cr: jenkins-server-v100
